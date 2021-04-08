@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -22,21 +22,15 @@ twitter: 'https://twitter.com/potrues'
 
 email: isaias.000@gmail.com
 address:
-  street: --
   city: São Bernardo do Campo
   region: SP
-  postcode: '--'
   country: Brazil
   country_code: BR
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Twitter
     link: 'https://twitter.com/potrues'
-  - icon: discord
-    icon_pack: fa
-    name: Chat on Discord
-    link: 'https://discordapp.com/channels/potrues#2784'
 
 # Site header
 
