@@ -3,25 +3,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc in Neuroscience
+    institution: Federal University of ABC (UFABC)
+    year: 2020
+  - course: BSc in Science and Technology
+    institution: Federal University of ABC (UFABC)
+    year: 2019
+email: "isaias.000@gmail.com"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neurodevelopment
+- Complex Networks
+- Bioinformatics
+- Neuroimmunology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Federal University of ABC
+  url: https://www.ufabc.edu.br/
+role: PhD Student in Neuroscience and Cognition
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,22 +29,19 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/potrues
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/caio-isaias/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/caio-isaias/
 superuser: true
-title: Nelson Bighetti
+title: Caio Isaias
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+.....
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "..." "newtab" >}}resumé{{< /staticref >}}.
