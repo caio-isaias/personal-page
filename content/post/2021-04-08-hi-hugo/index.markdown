@@ -16,3 +16,19 @@ image:
   preview_only: no
 projects: []
 ---
+
+Hello Word
+
+
+```r
+# testing rmardown
+
+a = 1 + 1
+
+print(a)
+```
+
+```
+## [1] 2
+```
+

@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm a neuroscientist with a particular interest in how the brain develop and which factors modulate this process in good or bad ways.
 education:
   courses:
   - course: BSc in Neuroscience
