@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'A neuroscientist personal blog and portifolio by Caio Isaias'
 twitter: 'https://twitter.com/potrues'
 
 # Contact (edit or remove options as required)
@@ -78,12 +78,14 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
+
 copyright_license:
   enable: false
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
+  
 abstract_length: 135
 plugins_js: []
 avatar:
