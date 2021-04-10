@@ -39,8 +39,6 @@ superuser: true
 title: Caio Isaias
 ---
 
-.....
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a BSc in Neuroscience and a PhD Student at UFABC from Brazil. I researched during my graduation the neuroimmunology process and responses in animal models of neonatal anoxia... (i will rewrite this stuff later)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "..." "newtab" >}}resumé{{< /staticref >}}.
