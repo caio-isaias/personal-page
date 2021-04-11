@@ -17,4 +17,6 @@ tags:
 title: Cell morphology classification
 ---
 
-In this project i studied the microglia morphology and develop a *pipeline* useful for classification of all kinda of cells. 
+In this project i studied the microglia morphology and develop a *pipeline* useful for classification of all kinda of cells using their morphology parameters :microscope:
+
+(i will add a full description of this project in the near future, with photos and graphs) 

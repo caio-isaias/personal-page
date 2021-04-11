@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'A list of my projects *(even though in the moment it present just one, im working on it lol)*'
 
 content:
   # Page type to display. E.g. project.
@@ -30,8 +30,7 @@ content:
     tag: '*'
   - name: Machine Learning
     tag: Machine Learning
-  - name: Neuroscience 
-    tag: Neurodevelopment
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
