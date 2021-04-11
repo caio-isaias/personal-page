@@ -39,6 +39,10 @@ superuser: true
 title: Caio Isaias
 ---
 
-I am a BSc in Neuroscience and a PhD Student at UFABC from Brazil. I researched during my graduation the neuroimmunology process and responses in animal models of neonatal anoxia... (i will rewrite this stuff later)
+I am a BSc in Neuroscience and a PhD Student at UFABC from Brazil. One topic that makes me extremely curious about is how early life events can promote different neurodevelopmental outcomes and cause long lasting consequences. I currently research how prenatal stress modulate the placental imprintoma and result in different neurodevelopmental outcomes.
 
+I love microglia, my undergrad research project covered basically neuroimmunology and neonatal anoxia. I'm also kinda into Data Science and Systems Biology :v: 
+
+<!--  
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "..." "newtab" >}}resumé{{< /staticref >}}.
+--> 
