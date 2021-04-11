@@ -1,5 +1,5 @@
 ---
-title: "Hi Hugo"
+title: "Testing"
 author: ''
 date: '2021-04-08'
 slug: hi-hugo
@@ -17,7 +17,9 @@ image:
 projects: []
 ---
 
-Hello Word
+Hello Word!
+
+This is just a test :smile:
 
 ```{r}
 # testing rmardown
