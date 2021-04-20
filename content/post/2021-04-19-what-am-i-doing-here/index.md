@@ -11,7 +11,7 @@ lastmod: '2021-04-19T21:02:04-03:00'
 featured: no
 image:
   caption: '[A cute Hippo, that definitely knows what he is doing, resting in the hot sun by Tim De Pauw](https://unsplash.com/photos/SBYsc1gsA-M)'
-  focal_point: Smart
+  focal_point: 
   preview_only: no
 ---
 
