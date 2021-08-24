@@ -3,18 +3,18 @@ date: "2020-04-01T00:00:00Z"
 external_link: ""
 featured: false
 image:
-    caption: '[Ilustrative cells photo (not microglias) by Yves Pommier & Rozenn Josse](https://unsplash.com/photos/L7en7Lb-Ovc)'
+    caption: '[Illustrative cells photo (not microglias) by Yves Pommier & Rozenn Josse](https://unsplash.com/photos/L7en7Lb-Ovc)'
     focal_point: Smart
     preview_only: false
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/potrues
+  url: https://twitter.com/caioisb
 - icon: github
   name: Codes
   icon_pack: fab
-  link: https://github.com/caio-isaias/
+  url: https://github.com/caio-isaias/
 summary: Using unsurpervised machine learning techniques to classify different cell morphologies
 tags:
 - Machine Learning
