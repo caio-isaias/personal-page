@@ -7,15 +7,15 @@ main:
   - name: About me
     url: '#about'
     weight: 10
-  - name: Blog
-    url: '/post'
-    weight: 20
+  # - name: Blog
+  #   url: '/post'
+  #   weight: 20
   - name: Projects
     url: '/projects'
-    weight: 30
+    weight: 20
 # - name: Publications
 #   url: '#featured'
-#   weight: 40
+#   weight: 30
 # - name: Contact
 #   url: '#contact'
 #   weight: 50
