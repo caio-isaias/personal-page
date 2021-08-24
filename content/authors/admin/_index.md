@@ -15,6 +15,7 @@ interests:
 - Complex Networks
 - Bioinformatics
 - Neuroimmunology
+- Cats
 organizations:
 - name: Federal University of ABC
   url: https://www.ufabc.edu.br/
@@ -28,7 +29,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/potrues
+  link: https://twitter.com/caioisb
 - icon: github
   icon_pack: fab
   link: https://github.com/caio-isaias/

@@ -2,6 +2,7 @@
 title: What am i doing here?
 author: 'Caio Isaias'
 date: '2021-04-19'
+draft: true
 slug: what-am-i-doing-here
 categories: []
 tags: []
