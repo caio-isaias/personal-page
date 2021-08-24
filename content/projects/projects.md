@@ -11,7 +11,7 @@ active: true
 weight: 65
 
 title: Projects
-subtitle: 'A list of my projects *(even though in the moment it present just one, im working on it lol)*'
+subtitle: ' In the future i will present my projects here *(work in progress)*'
 
 content:
   # Page type to display. E.g. project.

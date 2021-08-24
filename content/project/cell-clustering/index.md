@@ -3,7 +3,7 @@ date: "2020-04-01T00:00:00Z"
 external_link: ""
 featured: false
 image:
-    caption: '[Photo by Yves Pommier & Rozenn Josse on Unsplash](https://unsplash.com/photos/L7en7Lb-Ovc)'
+    caption: '[Ilustrative cells photo (not microglias) by Yves Pommier & Rozenn Josse](https://unsplash.com/photos/L7en7Lb-Ovc)'
     focal_point: Smart
     preview_only: false
 links:
@@ -11,7 +11,11 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/potrues
-summary: Using machine learning techniques to classify different cell morphologies
+- icon: github
+  name: Codes
+  icon_pack: fab
+  link: https://github.com/caio-isaias/
+summary: Using unsurpervised machine learning techniques to classify different cell morphologies
 tags:
 - Machine Learning
 - Glia
